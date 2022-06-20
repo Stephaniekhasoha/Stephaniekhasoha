@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋.I'm Stephanie Khasoha
 
 <!--
 **Stephaniekhasoha/Stephaniekhasoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Specializing on frontend development.
-- 🌱 I’m currently learning fullstack software engineering with ALX
+Here are some ideas to get you started
+- 🌱 I’m currently learning fullstack software engineering with ALX and Zuri
 - 👯 I’m looking to collaborate on frontend development.
-- 🤔 I’m looking for help with gaining employment.
+- 🤔 I’m looking for career mentorship
 - 💬 Ask me about ...
-- 📫 How to reach me: linkedin @Stephaniekhasoha
+- 📫 Reach me via Email: khasohastephanie@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
