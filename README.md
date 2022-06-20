@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started
 - 🌱 I’m currently studying fullstack software engineering with ALX and Zuri
-- 👯 I’m looking to collaborate on frontend development.
+- 👯 I’m looking foward to collaborating on frontend development.
 - 🤔 I’m looking for career mentorship
 - 📫 Reach me via Email: khasohastephanie@gmail.com
 
